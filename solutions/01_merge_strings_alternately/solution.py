@@ -28,5 +28,3 @@ def solutionString(a, b):
     res += b[j:]
 
     return res
-
-
